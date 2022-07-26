@@ -15,7 +15,7 @@ pip install easy-statistics
 ## Importing:
 
 ```py
-from statistics import DescriptiveStatistics
+from easy_stat import DescriptiveStatistics
 ```
 
 ## Using:
