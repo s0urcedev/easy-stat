@@ -1,8 +1,8 @@
 # easy-statistics
 
-**GitHub:** https://github.com/s0urcedev/easy-statistics
+**GitHub:** https://github.com/s0urcedev/easy-stat
 
-**PyPi:** https://pypi.org/project/easy-statistics/
+**PyPi:** https://pypi.org/project/easy-stat
 
 Python module for statistics
 
