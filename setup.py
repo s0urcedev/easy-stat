@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="easy-stat",
-    version="1.0.1",
+    version="1.0.2",
     author="s0urce",
     author_email="boyarkin.gleb@gmail.com",
     description="It's easy statistics",
@@ -13,6 +13,6 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    packages=['statistics'],
+    packages=['easy_stat'],
     install_requires=['matplotlib']
 )
